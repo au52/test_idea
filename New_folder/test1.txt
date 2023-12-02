@@ -1,0 +1,1 @@
+В папку New_folder добавлен файл test1.txt
